@@ -1,3 +1,3 @@
 [build]
-  publish = "ascend-gemini"
+  publish = "."
   functions = "ascend-gemini/netlify/functions"
